@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+        <img src="./assets/images/profile-picture.jpg" width="250">
+        <h1>Catalin Marin</h1>
+        <h2>QA Team Lead - PixelBowl Studio</h2>
+    </head>   
+        
+    <body>
+        <h2>About me</h2>
+        <hr>
+        <p>Hello! I'm Catalin, a QA Test Lead at PixelBowl Studio.<br>
+        My sights are set on a new horizon—I aspire to become a web developer.</p>
+        </p>
+        <h2>Professional experience</h2>
+        <h3>IT Software: 4 years and 7 months</h3>
+        <hr>
+        <h3>March 2022 - present (2 years)</h3>
+        <h4>QA Team Lead - PixelBowl Studio</h4>
+        <p>As a QA Team Lead I am responsible for overseeing multiple projects. My primary focus is mentain effective clear communication within the project members and efficiently deliver the desired product within the set timeframe.</p>
+        <p><h5>Key Responsabilities:</h5>
+            <ul>
+                <li>Manage QA teams/projects, ensuring alignment and collaboration.</li>
+                <li>Foster positive stakeholder relationships and communication channels.</li>
+                <li>Enforce QA processes and compliance with quality standards.</li>
+                <li>Compile project status and quality metrics reports.</li>
+                <li>Create/update onboarding documentation for internal tools.</li>
+                <li>Maintain comprehensive documentation and industry knowledge.</li>
+                <li>Organize tasks, edit scripts, and estimate process durations.</li>
+                <li>Conduct 1-on-1 meetings for feedback and support.</li>
+                <li>Manage bug databases</li>
+                <li>Plan workload and run scrums with QA teams.</li>
+                <li>Interface with development partners for collaboration.</li>
+            </ul>
+        </p>
+        
+        <hr>
+        <h3>January 2022 - December 2022 (3 months)</h3>
+        <h4>QA Senior Analyst - PixelBowl Studio</h4>
+        <p>
+            In addition to the previous job description, this role includes extra responsabilities such as:
+            <ul>
+                <li>Designing test cases / Modifying testplans</li>
+                <li>Early identifying potential risks during the testing process</li>
+                <li>Mentor and guide Junior QA Analysts</li>
+                <li>Ensure test coverage meets project requirements</li>
+            </ul>
+        </p>
+        <hr>
+        <h3>July 2021 - December 2021 (6 months)</h3>
+        <h4>QA Analyst - PixelBowl Studio</h4>
+        <p>Primary responsable for:
+            <ul>
+                <li>Identifying defects, bugs and other issues</li>
+                <li>Mantaining communication with internal/external colleagues</li>
+            </ul>
+        </p>
+        <hr>
+        <h3>August 2019 - July 2021 (2 years)</h3>
+        <h4>QA Tester 1 - Electronic Arts</h4>
+        <p>Examining game features, mechanics, and interfaces to uncover any bugs or glitches that could impact the player experience.</p>
+        <h2>Education</h2>
+        <hr>
+        <h3>Hyperion (2022 - 2025)</h3>
+        <p>International Affairs (Undergraduate)</p>
+        <h3>Costin D. Nenitescu Highschool (2015-2019)</h3>
+        <p>Bachelor's Degree.</p>
+        <h3>Other Certifications:</h3>
+            <p>Chemical engineer certificate.</p>
+        </h3>
+        <h2>Skills</h2>
+        <hr>
+        <h3>General Skills:</h3>
+        <p>Team Leadership | Project Management | Quality Assurance | Communication | Problem Solving | Testing Methodologies | Bug Tracking Software (Jira, Redmine, Trello) <br>
+        Test Case Management | Regression Testing | Game Development Lifecycle | Cross-Functional Coordination |</p>
+        <h2>Other Sections</h2>
+        <hr>
+        <p><h3>Foreign Languages:</h3>English(advanced)</p>
+        <p><h3>Driving License:</h3>B Category</p>
+        <p><h3>Hobbies:</h3>Traveling, Reading, Gaming, Sportsy Activities.</p>
+        <hr>
+        <footer>
+           <a href="./public/contact.html">Contact details</a>
+        </footer>
+    </body>
+
+</html>
